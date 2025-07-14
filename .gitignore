@@ -4,3 +4,4 @@ __pycache__/
 *.log
 build/
 node_modules/
+.pytest_cache/
