@@ -15,3 +15,4 @@ Notes and usage details for personal-assistant.
 - add a note about the defaults
 - add a note about the defaults
 - fix a small wording issue
+- clarify the setup steps
